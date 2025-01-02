@@ -46,7 +46,7 @@ html, body {
     margin: auto;
    
 
-    background-color:#ffffff15;
+    background-color:#05050546;
     backdrop-filter: blur(8px); /*размытие фона*/
     box-shadow: #ffffff;
     
@@ -216,7 +216,7 @@ footer {
         margin: auto;
         padding: auto;
     
-        background-color:#ffffff15;
+        background-color:#05050546;
         backdrop-filter: blur(8px); /*размытие фона*/
         box-shadow: #ffffff;
         
