@@ -161,6 +161,10 @@ a {
     text-decoration: none;
 }
 
+p {
+    padding-right: 20px;
+}
+
 footer {
     margin-top: 30px;
     text-align: right;
