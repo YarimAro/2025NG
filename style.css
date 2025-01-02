@@ -3,6 +3,8 @@ html, body {
     flex-direction: column;
     height: 100%;
     width: 100%;
+    margin: 0 auto;
+    padding: 0;
 
     flex-wrap: wrap; /*перенос карточек при нехватке места*/
     justify-content: center; /*выравнивание по центру всех карточек (когда одна или две) по горизонтали относительно краёв*/
@@ -162,6 +164,7 @@ a {
 footer {
     margin-top: 30px;
     text-align: right;
+    
 }
 
 
@@ -301,6 +304,9 @@ footer {
     margin-top: 100px;
     }
     
+p {
+    padding-right: 20px;
+}
     footer {
         margin-top: 60px;
         text-align: right;
